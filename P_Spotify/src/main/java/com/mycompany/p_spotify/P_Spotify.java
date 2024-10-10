@@ -14,5 +14,7 @@ public class P_Spotify {
         System.out.println("Hello World!");
         System.out.println("Prueba");
         int numero = 0;
+        System.out.println("oli");
+        String prueba="";
     }
 }
